@@ -17,7 +17,7 @@ test('get user test',async({ request })=>{
 
 test('create a user',async({ request })=>{
 
-    let userData={
+    let usersData={
         name:'Check',
         email:`Check${Date.now()}@pw.com`,
         gender:'male',
@@ -27,7 +27,7 @@ test('create a user',async({ request })=>{
     //JS Object to JSON: Auto Serialization is done by playwright request fixture
     let response=await request.post('https://gorest.co.in/public/v2/users',{
         headers:AUTH_TOKEN,
-        data:userData
+        data:usersData
     });
 
     console.log("Response: ", await response.json());
