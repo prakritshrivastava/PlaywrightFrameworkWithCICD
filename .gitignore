@@ -12,7 +12,7 @@ node_modules/
 
 # env files (credentials)
 config/.env.*
-Iconfig/.env.example
+!config/.env.example
 
 # reports
 reports/
