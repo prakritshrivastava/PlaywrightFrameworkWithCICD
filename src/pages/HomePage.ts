@@ -6,6 +6,7 @@ export class HomePage extends BasePage{
 
     private readonly logoutLink:Locator;
     private readonly header:Locator;
+    //private readonly user:Locator;
 
 
 
