@@ -43,7 +43,7 @@ jobs:
           with:
             name: playwright-html-report
             path: reports/html-report/
-            retention-days: 30
+            retention-days: 29
 
       - name: Upload Allure Results
         if: always()
