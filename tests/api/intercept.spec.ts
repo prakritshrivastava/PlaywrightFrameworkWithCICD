@@ -38,5 +38,5 @@ test('mock search data api',async({ page })=>{
         return await fakeResponse.json();
     });
 
-    console.log('Fake response',fakeJSON);
+    console.log('Fake response is:',fakeJSON);
 });
