@@ -5,10 +5,18 @@ on:
     - cron: '50 20 * * *'
   #push:
     #branches: [main]
-  pull_request:
-    branches: [main]
+  #pull_request:
+    #branches: [main]
   workflow_dispatch: # manual trigger button in GitHub UI
-
+    inputs:
+      environment:
+        description: 'Select Environment'
+        required: true
+        default: 'QA'
+        type: choice
+        options:
+          - QA
+          - dev
 jobs:
   test:
     runs-on: ubuntu-latest
