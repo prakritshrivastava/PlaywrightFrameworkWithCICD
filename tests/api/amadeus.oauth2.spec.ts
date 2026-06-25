@@ -11,7 +11,7 @@ let OAUTH_CONFIG={
 
 //Token might be expired hence always use beforeEach and run it everytime
 test.beforeEach('POST generate token',async({ request })=>{
-    console.log("Running AMADEUS TEST");
+    console.log("Running AMADEUS API Test");
     let response=await request.post(OAUTH_CONFIG.tokenURL,{
         form:{
             grant_type:OAUTH_CONFIG.grantType,
