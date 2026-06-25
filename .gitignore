@@ -11,8 +11,8 @@ node_modules/
 node_modules/
 
 # env files (credentials)
-src/config/.env.*
-!src/config/.env.example
+config/.env.*
+!config/.env.example
 
 
 # reports
