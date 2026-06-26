@@ -9,7 +9,7 @@ test.beforeEach(async({loginPage}) => {
 
 });
 
-test('home page title test',async({homePage}) => {
+test('@smoke home page title test',async({homePage}) => {
     let homepagetitle=await homePage.getPageTitle();
     console.log("Home Page Title: ",homepagetitle);
     expect(homepagetitle).toBe('My Account');

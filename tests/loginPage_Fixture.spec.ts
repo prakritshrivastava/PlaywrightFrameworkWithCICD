@@ -10,7 +10,7 @@ test.beforeEach(async({ loginPage,homePage }) =>{
     await loginPage.goToLoginPage();
 });
 
-test('LoginTest',async({loginPage}) => {
+test('@smoke LoginTest',async({loginPage}) => {
     await loginPage.goToLoginPage();
     let title:string=await loginPage.getLoginPageTitle();
     console.log('Title is: ',title);
@@ -21,7 +21,7 @@ test('check pwd link',async({loginPage})=>{
     expect(loginPage.isForgotPwdLinkExist()).toBeTruthy();
 });
 
-test('user is able to login',async({loginPage,homePage})=>{
+test('@smoke user is able to login',async({loginPage,homePage})=>{
    await loginPage.performLogin(process.env.USERNAME!,process.env.PASSWORD!);
    expect(await homePage.isLogoutLinkVisible()).toBeTruthy();
 });
