@@ -1,0 +1,74 @@
+Response JSON:  [
+  {
+    id: 8528444,
+    name: 'Check',
+    email: 'Check1782747232007@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8528442,
+    name: 'Check Updated',
+    email: 'Check1782747230848@pw.com',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8528441,
+    name: 'Check',
+    email: 'Check1782747230718@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8528440,
+    name: 'schema test',
+    email: 'auto_1782747229269@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8528436,
+    name: 'Check',
+    email: 'Check1782747147222@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8528433,
+    name: 'Check Updated',
+    email: 'Check1782747144798@pw.com',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8528432,
+    name: 'Check',
+    email: 'Check1782747144573@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8528431,
+    name: 'schema test',
+    email: 'auto_1782747142939@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8528212,
+    name: 'Som Bharadwaj',
+    email: 'bharadwaj_som@hilpert-stark.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8528211,
+    name: 'Bhoopat Verma',
+    email: 'verma_bhoopat@bartell.test',
+    gender: 'male',
+    status: 'inactive'
+  }
+]
+Status Code: 200
+Status Code: OK
