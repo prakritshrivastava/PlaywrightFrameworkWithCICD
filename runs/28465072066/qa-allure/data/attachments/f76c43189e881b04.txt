@@ -1,0 +1,15 @@
+POST Response:  {
+  id: 8530226,
+  name: 'Check',
+  email: 'Check1782842273117@pw.com',
+  gender: 'male',
+  status: 'active'
+}
+URL: https://gorest.co.in/public/v2/users/8530226
+GET Response:  {
+  id: 8530226,
+  name: 'Check',
+  email: 'Check1782842273117@pw.com',
+  gender: 'male',
+  status: 'active'
+}

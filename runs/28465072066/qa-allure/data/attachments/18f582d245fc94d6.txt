@@ -1,0 +1,22 @@
+POST Response:  {
+  id: 8530227,
+  name: 'Check',
+  email: 'Check1782842273702@pw.com',
+  gender: 'male',
+  status: 'active'
+}
+PUT Response:  {
+  id: 8530227,
+  name: 'Check Updated',
+  email: 'Check1782842273702@pw.com',
+  gender: 'male',
+  status: 'inactive'
+}
+URL: https://gorest.co.in/public/v2/users/8530227
+GET Response:  {
+  id: 8530227,
+  name: 'Check Updated',
+  email: 'Check1782842273702@pw.com',
+  gender: 'male',
+  status: 'inactive'
+}

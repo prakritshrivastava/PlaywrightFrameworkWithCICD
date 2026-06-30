@@ -1,0 +1,15 @@
+POST Response:  {
+  id: 8530225,
+  name: 'schema test',
+  email: 'auto_1782842271490@open.com',
+  gender: 'male',
+  status: 'active'
+}
+URL: https://gorest.co.in/public/v2/users/8530225
+GET Response:  {
+  id: 8530225,
+  name: 'schema test',
+  email: 'auto_1782842271490@open.com',
+  gender: 'male',
+  status: 'active'
+}

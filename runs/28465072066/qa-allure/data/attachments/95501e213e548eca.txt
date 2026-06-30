@@ -1,0 +1,8 @@
+POST Response:  {
+  id: 8530229,
+  name: 'Check',
+  email: 'Check1782842275219@pw.com',
+  gender: 'male',
+  status: 'active'
+}
+ID is: 8530229

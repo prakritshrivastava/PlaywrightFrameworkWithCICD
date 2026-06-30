@@ -1,0 +1,2 @@
+URL: https://gorest.co.in/public/v2/users/8530229
+GET Response:  { message: 'Resource not found' }
