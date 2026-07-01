@@ -1,0 +1,10 @@
+POST Response:  {
+  id: 8531857,
+  name: 'Check',
+  email: 'Check1782924502384@pw.com',
+  gender: 'male',
+  status: 'active'
+}
+DELETE Response:  204
+URL: https://gorest.co.in/public/v2/users/8531857
+GET Response:  { message: 'Resource not found' }

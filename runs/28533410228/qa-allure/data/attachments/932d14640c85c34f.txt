@@ -1,0 +1,9 @@
+Response:  {
+  id: 8531859,
+  name: 'Check',
+  email: 'Check1782924503794@pw.com',
+  gender: 'male',
+  status: 'active'
+}
+Status Code:  201
+Status Line:  Created

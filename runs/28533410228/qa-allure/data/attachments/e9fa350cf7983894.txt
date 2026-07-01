@@ -1,0 +1,74 @@
+Response JSON:  [
+  {
+    id: 8531856,
+    name: 'Check Updated',
+    email: 'Check1782924501909@pw.com',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8531855,
+    name: 'Check',
+    email: 'Check1782924501646@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531854,
+    name: 'schema test',
+    email: 'auto_1782924499961@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531853,
+    name: 'Check',
+    email: 'Check1782924449703@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531849,
+    name: 'Check Updated',
+    email: 'Check1782924447494@pw.com',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8531850,
+    name: 'Check',
+    email: 'Check1782924447454@pw.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531848,
+    name: 'schema test',
+    email: 'auto_1782924445735@open.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531304,
+    name: 'Veda Chopra',
+    email: 'veda_chopra@kling.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531303,
+    name: 'Bhoj Iyer II',
+    email: 'ii_iyer_bhoj@roberts.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8531302,
+    name: 'Anusuya Reddy JD',
+    email: 'anusuya_jd_reddy@zulauf-boyle.test',
+    gender: 'female',
+    status: 'inactive'
+  }
+]
+Status Code: 200
+Status Code: OK

@@ -1,0 +1,4 @@
+Fake response is: [
+  { name: 'Fake MacBook Pro', price: '$599' },
+  { name: 'Fake Iphone 20', price: '$999' }
+]

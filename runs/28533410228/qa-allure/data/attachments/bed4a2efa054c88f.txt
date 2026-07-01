@@ -1,0 +1,7 @@
+PUT Response:  {
+  id: 8531858,
+  name: 'Check Updated',
+  email: 'Check1782924503574@pw.com',
+  gender: 'male',
+  status: 'inactive'
+}

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2933","@smoke LoginTest","chromium","2026-07-01","passed","2026-07-01","","loginPage_Fixture.spec.ts","",""
+"","6515","@smoke home page title test","chromium","2026-07-01","passed","2026-07-01","","homePage_Fixture.spec.ts","",""
+"","6433","@smoke user is able to login","chromium","2026-07-01","passed","2026-07-01","","loginPage_Fixture.spec.ts","",""
